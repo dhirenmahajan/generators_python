@@ -1,11 +1,4 @@
 ```markdown
-# Module 12 - Lab 12 - Generators - Required Questions
-
-## Due Date: 13 Nov 2022 by 23:59
-## Points: 100
-## Submission: Text Entry Box, Website URL, or File Upload
-
-This repository contains solutions to the required questions for Module 12 Lab 12 on Generators.
 
 ## RQ1 - Cheer
 ```python
